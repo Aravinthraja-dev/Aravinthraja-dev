@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am Aravinth Raja 
+Front End Developer 
 
 <!--
 **Aravinthraja-dev/Aravinthraja-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
